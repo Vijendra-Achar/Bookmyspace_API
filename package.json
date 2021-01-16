@@ -1,0 +1,16 @@
+{
+  "name": "bookmyspace",
+  "version": "1.0.0",
+  "description": "An API to Book Hotels Resorts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}

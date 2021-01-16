@@ -1,0 +1,5 @@
+# Node Environment
+/node_modules
+
+# Config file
+config.env
